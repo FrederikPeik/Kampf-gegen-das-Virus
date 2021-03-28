@@ -2,6 +2,8 @@
 
 Ein kleines Python Programm, das Ausbreitung und Bekämpfung eines Virus simuliert.
 
+von Jakob Dubischar und Frederik Peik im Rahmen von Jugend forscht 2020/2021
+
 # Installation
 
 Für die Verwendung des Programms wird der Interpreter "Python3" sowie die Bibleotheken "matplotlib" und "Pygame" benötigt
