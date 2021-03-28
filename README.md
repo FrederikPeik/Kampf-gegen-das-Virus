@@ -18,3 +18,16 @@ Durch erneutes Drücken der Entertaste kommen die Graphen wieder in den Vordergr
 Wird die Leertaste während der Simulation gedrückt, wird die Simulation abgebrochen.
 Ansonsten ist die Simulation beendet sobald das Virus ausgerottet.
 Dann kann durch erneutes Drücken der Leertaste das Programm neugestartet werden.
+
+# Farb-Legende
+
+Jeder Pixel im Raster stellt einen Menschen dar.
+um die unterschiedlichen Eigenschaften erkennen zu können werden sie in verschiedenen Farben angezeigt.
+
+•	Leere Plätze sind schwarz. 
+•	Die gesunden nicht-Risiko-Menschen ohne Maske sind blau verfärbt. 
+•	Mit Maske sind sie hellblau.
+•	Die gelben Menschen sind Risikopersonen. Sie haben eine höhere Sterbewahrscheinlichkeit. 
+•	Wenn Menschen mit dem Virus infiziert werden, dann werden sie rot. 
+•	Die Toten verfärben sich grau.
+•	Geimpfte und immune Menschen werden grün.
